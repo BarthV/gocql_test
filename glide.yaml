@@ -1,0 +1,4 @@
+package: github.com/BarthV/gocql_test
+import:
+- package: github.com/gocql/gocql
+- package: github.com/prometheus/client_golang/prometheus
